@@ -22,19 +22,16 @@ categories: first release
 
 # **Actions** <a name="-Actions"></a>
 ## **On Map** <a name="-On-Map"></a>
-
 ### **Clicking ON Map will allow users to locate the assignment on the map**
 
 ![dassa2](https://user-images.githubusercontent.com/81990744/115450535-0009e600-a1ea-11eb-9cca-33f15618768b.png)
 
 ## **Request to Reschedule** <a name="-Request-to-Reschedule"></a>
-
 ### **Clicking on Request to Reschedule button and confirming the action on the popup messages will allow the user to reschedule an assignment**
 
 ![dassa5](https://user-images.githubusercontent.com/81990744/115450741-4d865300-a1ea-11eb-9987-a4663eac65c7.png)
 
 ## **Cancel** <a name="-Cancel"></a>
-
 ### **Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment**
 
 ![dassa4](https://user-images.githubusercontent.com/81990744/115451111-c71e4100-a1ea-11eb-9891-6c1d5b39395f.png)
