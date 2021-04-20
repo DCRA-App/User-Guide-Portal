@@ -57,6 +57,8 @@ categories: first release
 
 # **Sorting** <a name="-Sorting"></a>
 
+### **Users could navigate to different assignment pages by selecting the page numbers**
+
 ![assa9](https://user-images.githubusercontent.com/81990744/115290733-e604d080-a121-11eb-97cc-18724b0e29d9.png)
 
 ### **Sorting inspections using inspection number: Clicking on Inspection in the column, allow the user to sort the list from the oldest to the newest ticket number and vice versa**
