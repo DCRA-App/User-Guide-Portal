@@ -59,7 +59,7 @@ categories: first release
 
 # **Sorting** <a name="-Sorting"></a>
 
-### **Sorting the list using Inspector's Last Name: Clicking the Inspector Column, the user will be able to sort the Inspectors list from A-Z to Z-A**
+### **Sorting the list using Inspector's Last Name: Clicking the Inspector Column, will allow the user to sort the Inspectors list from A-Z to Z-A**
 
 ![ins10](https://user-images.githubusercontent.com/81990744/115397444-185f0e00-a1b4-11eb-8291-0bfc2aa5b630.png)
 
@@ -67,7 +67,7 @@ categories: first release
 
 ![ins12](https://user-images.githubusercontent.com/81990744/115397481-22810c80-a1b4-11eb-8c45-2eab4d712b80.png)
 
-### **Sorting the list using Inspector's Status, Clicking the Status Column, the user will be abel to sort the Inspectors using status Tracking On and Off**
+### **Sorting the list using Inspector's Status, Clicking the Status Column, will allow the user to sort the Inspectors using status Tracking On and Off**
 
 ![ins13](https://user-images.githubusercontent.com/81990744/115397790-78ee4b00-a1b4-11eb-976a-f65f406417a1.png)
 
@@ -83,19 +83,19 @@ categories: first release
 
 ![ins29](https://user-images.githubusercontent.com/81990744/115398565-48f37780-a1b5-11eb-911f-ca616727033a.png)
 
-### **Filtering the list using Inspector Name: Clicking on the name box and typing inspector's name and selecting the inspectors name will let the user to filter the inspector from the list** 
+### **Filtering the list using Inspector Name: Clicking on the name box and typing inspector's name and selecting the inspectors name will allow the user to filter the inspector from the list** 
 
 ![ins25](https://user-images.githubusercontent.com/81990744/115406974-a8ee1c00-a1bd-11eb-9ed1-2661c34f85ae.png)
 
 ![ins30](https://user-images.githubusercontent.com/81990744/115407371-f66a8900-a1bd-11eb-86c8-bc87e72695d4.png)
 
-### **Filtering the list using Inspector Type: Selecting All, Internal and External will let the user to filter the list using Inspector Type**
+### **Filtering the list using Inspector Type: Selecting All, Internal and External will allow the user to filter the list using Inspector Type**
 
 ![ins21](https://user-images.githubusercontent.com/81990744/115407507-139f5780-a1be-11eb-8cdb-700920b968bf.png)
 
 ![ins22](https://user-images.githubusercontent.com/81990744/115407517-15691b00-a1be-11eb-9b2b-9f7e3d3e10ac.png)
 
-### **Filtering the list using Inspector Status: Selecting Tracking On, In Tranist, Inspecting and Tracking Off the user will be abel to filter the list depending upon their selection**
+### **Filtering the list using Inspector Status: Selecting Tracking On, In Tranist, Inspecting and Tracking Off will allow the user to filter the list using Inspector Status**
 
 ![ins23](https://user-images.githubusercontent.com/81990744/115407606-2ade4500-a1be-11eb-84c2-739d4ad98099.png)
 
