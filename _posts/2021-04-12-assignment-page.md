@@ -92,7 +92,7 @@ categories: first release
 
 ![assa11](https://user-images.githubusercontent.com/81990744/115290962-29f7d580-a122-11eb-8b7b-1b4db4eb7cb5.png)
 
-### **Filtering the list using Type: Selecting All, Initial and Follow up will allow the user to filter the lsit using Inspection/Assignment type**
+### **Filtering the list using Type: Selecting All, Initial and Follow up will allow the user to filter the list using Inspection/Assignment type**
 
 ![assa11](https://user-images.githubusercontent.com/81990744/115290962-29f7d580-a122-11eb-8b7b-1b4db4eb7cb5.png)
 
