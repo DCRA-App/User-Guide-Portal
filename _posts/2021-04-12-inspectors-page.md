@@ -19,6 +19,8 @@ categories: first release
 
 ![ins1](https://user-images.githubusercontent.com/81990744/115393547-d2a04680-a1af-11eb-8fa0-c3a06e8a9585.png)
 
+### **The user will be directed to the Inspector page where inspectors and their information listed in different columns**
+
 ![ins26](https://user-images.githubusercontent.com/81990744/115393860-26ab2b00-a1b0-11eb-9a0c-a6ae3b51d223.png)
 
 ### **Name Column, where inspector's first name and last name is listed**
