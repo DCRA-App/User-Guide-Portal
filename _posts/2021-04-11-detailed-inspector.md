@@ -7,7 +7,7 @@ categories: first release
 
 - [Field Descriptions](#-Field-Descriptions)
   * [Working Hours](#-Working-Hours)
-    *  [Where they can be changed](#-Where-they-can-be-changed)
+    
 
 # **Field Descriptions** <a name="-Field-Descriptions"></a>
 
@@ -25,6 +25,8 @@ categories: first release
 
 ## **Working Hours** <a name="-Working-Hours"></a>
 
+### **Currently Working Hours are managed by the system administrators**
+
 ![dins6](https://user-images.githubusercontent.com/81990744/115453662-dfdc2600-a1ed-11eb-838c-e1c81cc7111e.png)
 
-## **Where they can be changed** <a name="-Where-they-can-be-changed"></a>
+
