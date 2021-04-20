@@ -56,7 +56,7 @@ categories: first release
 
 ## **Detailed Assignment Page** <a name="-Detailed-Assignment-Page"></a>
 
-### **Clicking on the arrow icon on the list will allow the user to be directed Assignment Details page**
+### **Clicking on the arrow icon on the list will allow the user to be directed to Assignment Details page**
 
 ![assa10](https://user-images.githubusercontent.com/81990744/115290644-c8376b80-a121-11eb-8494-5bc8b60d90cd.png)
 
