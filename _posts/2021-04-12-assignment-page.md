@@ -13,8 +13,6 @@ categories: first release
 - [Filter](#-Filter)
 
 
-
-
 # **Column Descriptions** <a name="-Column-Descriptions"></a>
 
 ### **Select Assignments from the main menu bar to navigate to the Assignments page**
@@ -50,10 +48,19 @@ categories: first release
 
 ## **Map** <a name="-Map"></a>
 
-![assa14](https://user-images.githubusercontent.com/81990744/115291056-45fb7700-a122-11eb-886a-d2937b2223cf.png)
+### **Clicking on the location icon on the list will allow the user to locate the assignment on the map**
+
+![ins18](https://user-images.githubusercontent.com/81990744/115446446-3c871300-a1e5-11eb-982b-ca3d52d9f45d.png)
+
+![ins19](https://user-images.githubusercontent.com/81990744/115446457-3f820380-a1e5-11eb-8d64-2d77b3be0490.png)
 
 ## **Detailed Assignment Page** <a name="-Detailed-Assignment-Page"></a>
+
+### **Clicking on the arrow icon on the list will allow the user to be directed Assignment Details page**
+
 ![assa10](https://user-images.githubusercontent.com/81990744/115290644-c8376b80-a121-11eb-8494-5bc8b60d90cd.png)
+
+![shot_210420_143538](https://user-images.githubusercontent.com/81990744/115446799-b919f180-a1e5-11eb-8e9d-b428d5dad9f2.png)
 
 # **Sorting** <a name="-Sorting"></a>
 
@@ -79,17 +86,19 @@ categories: first release
 
 # **Filter** <a name="-Filter"></a>
 
-### **Click on the Filters button**
+### **Click on the Filters button will display the assignment filter**
 
 ![assa8](https://user-images.githubusercontent.com/81990744/115290582-b786f580-a121-11eb-970d-a4a53514cd24.png)
 
-### **Type**
+![assa11](https://user-images.githubusercontent.com/81990744/115290962-29f7d580-a122-11eb-8b7b-1b4db4eb7cb5.png)
+
+### **Filtering the list using Type: Selecting All, Initial and Follow up will allow the user to filter the lsit using Inspection/Assignment type**
 
 ![assa11](https://user-images.githubusercontent.com/81990744/115290962-29f7d580-a122-11eb-8b7b-1b4db4eb7cb5.png)
 
 ![assa12](https://user-images.githubusercontent.com/81990744/115290980-2f552000-a122-11eb-9aee-ecf9832d7dcd.png)
 
-### **Status**
+### **Filtering the list using Status: Selecting Assigned, Inspector In Transit, Inspection in Progress, Canceled, Reschedule Requested, Rescheduled and Completed will allow the user to filter the list using Inspection/Assignment Statuses**
 
 ![assa13](https://user-images.githubusercontent.com/81990744/115290994-354b0100-a122-11eb-9d79-f1f642cbc017.png)
 
