@@ -21,21 +21,28 @@ categories: first release
 
 ![assa1](https://user-images.githubusercontent.com/81990744/115289438-8ce86d00-a120-11eb-911a-634900a9f6c6.png)
 
+### **The user will be directed to the Assignement page where assignments and their information listed on different columns**
+
 ![assa2](https://user-images.githubusercontent.com/81990744/115289512-a5f11e00-a120-11eb-992f-de3c0d5725a7.png)
 
-### **Inspection Column**
+### **Inspection Column: Where inspection number listed**
+
 ![assa3](https://user-images.githubusercontent.com/81990744/115289616-c8833700-a120-11eb-8976-326fe063f845.png)
 
-### **Status Column**
+### **Status Column: Where the status of the inspection listed**
+
 ![assa4](https://user-images.githubusercontent.com/81990744/115289705-dfc22480-a120-11eb-95d9-e1f1158195d0.png)
 
-### **Date/Time Column**
+### **Date/Time Column: Where the creation Date/Time of the inspection listed **
+
 ![assa5](https://user-images.githubusercontent.com/81990744/115289786-f8cad580-a120-11eb-99dc-8c6944652bb6.png)
 
-### **Assigned Inspector Column**
+### **Assigned Inspector Column: Where the assigned inspector for the inspection listed**
+
 ![assa6](https://user-images.githubusercontent.com/81990744/115289961-113af000-a121-11eb-913a-561d4664e295.png)
 
-### **Address Column**
+### **Address Column: Where the inspection location/address listed**
+
 ![assa7](https://user-images.githubusercontent.com/81990744/115290049-2ca5fb00-a121-11eb-9bd8-029c3fc402e0.png)
 
 
@@ -49,6 +56,7 @@ categories: first release
 ![assa10](https://user-images.githubusercontent.com/81990744/115290644-c8376b80-a121-11eb-8494-5bc8b60d90cd.png)
 
 # **Sorting** <a name="-Sorting"></a>
+
 ![assa9](https://user-images.githubusercontent.com/81990744/115290733-e604d080-a121-11eb-97cc-18724b0e29d9.png)
 
 ### **Click on Inspection**
