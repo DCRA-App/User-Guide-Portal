@@ -59,7 +59,7 @@ categories: first release
 
 ![assa9](https://user-images.githubusercontent.com/81990744/115290733-e604d080-a121-11eb-97cc-18724b0e29d9.png)
 
-### **Click on Inspection**
+### **Sorting inspections using inspection number: Clicking on Inspection in the column, allow the user to sort the list from the oldest to the newest ticket number and vice versa**
 
 ![assa16](https://user-images.githubusercontent.com/81990744/115291244-81964100-a122-11eb-88fd-05f4c8ef08b5.png)
 
@@ -67,7 +67,7 @@ categories: first release
 
 ![assa22](https://user-images.githubusercontent.com/81990744/115291549-e356ab00-a122-11eb-8d19-dc4099098b95.png)
 
-### **Click on Date/Time**
+### **Sorting inspections using date and time: Clicking on Date/Time in the column, allow the user to sort the list from the earliest to the latest date and vice versa**
 
 ![assa19](https://user-images.githubusercontent.com/81990744/115291411-ba361a80-a122-11eb-8237-bfcf1a38f4ac.png)
 
