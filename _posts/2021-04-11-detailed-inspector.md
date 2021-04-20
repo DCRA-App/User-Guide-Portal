@@ -19,6 +19,10 @@ categories: first release
 
 ![dins4](https://user-images.githubusercontent.com/81990744/115453517-be7b3a00-a1ed-11eb-8bde-e4ec564d3e5d.png)
 
+## **Clicking ON Map will allow users to locate the inspector on the map**
+
+![dins3](https://user-images.githubusercontent.com/81990744/115453913-2762b200-a1ee-11eb-8c83-e9dcee97490c.png)
+
 ## **Working Hours** <a name="-Working-Hours"></a>
 
 ![dins6](https://user-images.githubusercontent.com/81990744/115453662-dfdc2600-a1ed-11eb-838c-e1c81cc7111e.png)
