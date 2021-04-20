@@ -53,6 +53,8 @@ categories: first release
 
 ### **By clicking the arrows on the list, the users will be directed to the Inspector Details page**
 
+![ins9](https://user-images.githubusercontent.com/81990744/115430388-523f0d00-a1d2-11eb-975e-060f6f586463.png)
+
 ![ins16](https://user-images.githubusercontent.com/81990744/115395680-2449d080-a1b2-11eb-9860-3f930f1e9790.png)
 
 # **Sorting** <a name="-Sorting"></a>
