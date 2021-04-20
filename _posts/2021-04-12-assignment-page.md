@@ -31,7 +31,7 @@ categories: first release
 
 ![assa4](https://user-images.githubusercontent.com/81990744/115289705-dfc22480-a120-11eb-95d9-e1f1158195d0.png)
 
-### **Date/Time Column: Where the creation Date/Time of the inspection listed **
+### **Date/Time Column: Where the creation Date/Time of the inspection listed**
 
 ![assa5](https://user-images.githubusercontent.com/81990744/115289786-f8cad580-a120-11eb-99dc-8c6944652bb6.png)
 
