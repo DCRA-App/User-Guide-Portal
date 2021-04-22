@@ -14,7 +14,7 @@ categories: first release
 
 ### Field Descriptions <a name="-Field-Descriptions"></a>
 
-Clicking on the arrow icon will allow the user to navigate to the Assignment Details page 
+Clicking on the arrow icon will allow the user to navigate to the Assignment Details page
 
 ![dassa6 -screenshot](https://user-images.githubusercontent.com/81990744/115449440-d0a6a980-a1e8-11eb-848b-632c95f301ee.png)
 
@@ -37,5 +37,3 @@ Clicking on Request to Reschedule button and confirming the action on the popup 
 Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
 ![dassa4](https://user-images.githubusercontent.com/81990744/115451111-c71e4100-a1ea-11eb-9891-6c1d5b39395f.png)
-
-
