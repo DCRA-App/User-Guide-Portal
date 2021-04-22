@@ -36,4 +36,4 @@ Clicking on Request to Reschedule button and confirming the action on the popup 
 ### Cancel <a name="-Cancel"></a>
 Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
-![dassa4- screenshot](https://user-images.githubusercontent.com/81990744/115451111-c71e4100-a1ea-11eb-9891-6c1d5b39395f.png)
+![dassa4 -screenshot](https://user-images.githubusercontent.com/81990744/115451111-c71e4100-a1ea-11eb-9891-6c1d5b39395f.png)
