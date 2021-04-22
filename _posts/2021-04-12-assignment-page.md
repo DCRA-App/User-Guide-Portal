@@ -99,5 +99,6 @@ For example, filtering the list using Assignment Type is seen below
 ![assa12](https://user-images.githubusercontent.com/81990744/115290980-2f552000-a122-11eb-9aee-ecf9832d7dcd.png)
 
 ... or by Assignment Status
+
 ![assa13](https://user-images.githubusercontent.com/81990744/115290994-354b0100-a122-11eb-9d79-f1f642cbc017.png)
 
