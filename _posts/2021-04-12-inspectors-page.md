@@ -5,6 +5,7 @@ tags: user guide portal
 categories: first release
 ---
 
+- [Navogate to Inspectors List](#-Navigate)
 - [Column Descriptions](#-Column-Descriptions)
 - [Actions from Columns](#-Actions-from-Columns)
     * [Map](#-Map)
@@ -12,6 +13,7 @@ categories: first release
 - [Sorting](#-Sorting)
 - [Filter](#-Filter)
 
+# **Navigate to Inspectors List** <a name="-Navigate"></a>
 
 ### **To navigate to the Inspector full list, click on Inspectors from the side navigation panel.**
 
@@ -20,21 +22,22 @@ categories: first release
 ### **The user will be directed to the Inspectors page as seen below. The table is a full list of Inspectors registered with DCRA and permissioned appropriately. **
 
 ![ins26](https://user-images.githubusercontent.com/81990744/115393860-26ab2b00-a1b0-11eb-9a0c-a6ae3b51d223.png)
+
 # **Column Descriptions** <a name="-Column-Descriptions"></a>
 
-### **Name Column: Where inspector's first name and last name is listed**
+### **Name Column: Inspector's first name and last name**
 
 ![ins3](https://user-images.githubusercontent.com/81990744/115393910-3460b080-a1b0-11eb-85db-ec69665508a1.png)
 
-### **Contact information column: Where inspector's email address is listed**
+### **Contact information column: Inspector's email address**
 
 ![ins4](https://user-images.githubusercontent.com/81990744/115394138-77bb1f00-a1b0-11eb-8a50-f1fa369779dc.png)
 
-### **Department Column: Where inspector's department is listed**
+### **Department column: Inspector's department/program (they program they conduct inspections in)**
 
 ![ins5](https://user-images.githubusercontent.com/81990744/115394447-c7014f80-a1b0-11eb-9044-aac325f4b52e.png)
 
-### **Status Column: Where inspector's status is indicated**
+### **Status Column: Inspector's status**
 
 ![ins6](https://user-images.githubusercontent.com/81990744/115394699-09c32780-a1b1-11eb-8e94-ddc6d1fd8eaa.png)
 # **Sorting** <a name="-Sorting"></a>
