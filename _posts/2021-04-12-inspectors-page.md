@@ -5,7 +5,7 @@ tags: user guide portal
 categories: first release
 ---
 
-- [Navogate to Inspectors List](#-Navigate)
+- [Navigate to Inspectors List](#-Navigate)
 - [Column Descriptions](#-Column-Descriptions)
 - [Actions from Columns](#-Actions-from-Columns)
     * [Map](#-Map)
@@ -15,11 +15,11 @@ categories: first release
 
 # **Navigate to Inspectors List** <a name="-Navigate"></a>
 
-### **To navigate to the Inspector full list, click on Inspectors from the side navigation panel.**
+### **To navigate to the Inspector full list, click on Inspectors from the side navigation panel.
 
 ![ins1](https://user-images.githubusercontent.com/81990744/115393547-d2a04680-a1af-11eb-8fa0-c3a06e8a9585.png)
 
-### **The user will be directed to the Inspectors page as seen below. The table is a full list of Inspectors registered with DCRA and permissioned appropriately. **
+### **The user will be directed to the Inspectors page as seen below. The table is a full list of Inspectors registered with DCRA and permissioned appropriately.**
 
 ![ins26](https://user-images.githubusercontent.com/81990744/115393860-26ab2b00-a1b0-11eb-9a0c-a6ae3b51d223.png)
 
