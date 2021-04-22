@@ -13,15 +13,14 @@ categories: first release
 - [Filter](#-Filter)
 
 
-# **Column Descriptions** <a name="-Column-Descriptions"></a>
-
-### **Click on Inspectors from the main menu bar**
+### **To navigate to the Inspector full list, click on Inspectors from the side navigation panel.**
 
 ![ins1](https://user-images.githubusercontent.com/81990744/115393547-d2a04680-a1af-11eb-8fa0-c3a06e8a9585.png)
 
-### **The user will be directed to the Inspector page where inspectors and their information listed in different columns**
+### **The user will be directed to the Inspectors page as seen below. The table is a full list of Inspectors registered with DCRA and permissioned appropriately. **
 
 ![ins26](https://user-images.githubusercontent.com/81990744/115393860-26ab2b00-a1b0-11eb-9a0c-a6ae3b51d223.png)
+# **Column Descriptions** <a name="-Column-Descriptions"></a>
 
 ### **Name Column: Where inspector's first name and last name is listed**
 
@@ -35,9 +34,27 @@ categories: first release
 
 ![ins5](https://user-images.githubusercontent.com/81990744/115394447-c7014f80-a1b0-11eb-9044-aac325f4b52e.png)
 
-### **Status Column: Where inspector's status indicated**
+### **Status Column: Where inspector's status is indicated**
 
 ![ins6](https://user-images.githubusercontent.com/81990744/115394699-09c32780-a1b1-11eb-8e94-ddc6d1fd8eaa.png)
+# **Sorting** <a name="-Sorting"></a>
+
+### **The table of Inspectors is sortable by each column by clicking on each specific column to either sort it A-Z or Z-A. For example, to sort the table by Inspector's Last Name, click the Inspector column, as seen below. **
+
+![ins10](https://user-images.githubusercontent.com/81990744/115397444-185f0e00-a1b4-11eb-8291-0bfc2aa5b630.png)
+
+![ins11](https://user-images.githubusercontent.com/81990744/115397458-1b59fe80-a1b4-11eb-95e4-5c213abdc566.png)
+
+![ins12](https://user-images.githubusercontent.com/81990744/115397481-22810c80-a1b4-11eb-8c45-2eab4d712b80.png)
+
+### **... or by Inspector's status and so forth for each column**
+
+![ins13](https://user-images.githubusercontent.com/81990744/115397790-78ee4b00-a1b4-11eb-976a-f65f406417a1.png)
+
+![ins14](https://user-images.githubusercontent.com/81990744/115397796-7be93b80-a1b4-11eb-970c-f52e42fc0161.png)
+
+![ins15](https://user-images.githubusercontent.com/81990744/115397859-899ec100-a1b4-11eb-8dc8-f56258308b4c.png)
+
 
 # **Actions from Columns** <a name="-Action-from-Columns"></a>
 
@@ -46,56 +63,38 @@ categories: first release
 ![ins7](https://user-images.githubusercontent.com/81990744/115395147-8e15aa80-a1b1-11eb-9a04-410d63eb1ad3.png)
 
 ![ins17](https://user-images.githubusercontent.com/81990744/115395365-ca490b00-a1b1-11eb-8be3-0ad8d282036a.png)
-
-### **Also clicking the location icon on the Inspector Details page the users would will be directed to the inspectors location on the map**
-
-![ins27](https://user-images.githubusercontent.com/81990744/115396034-8d314880-a1b2-11eb-8db9-0987a92b40b1.png)
-
 ### **Clicking the arrows on the list, the users will be directed to the Inspector Details page**
 
 ![ins9](https://user-images.githubusercontent.com/81990744/115430388-523f0d00-a1d2-11eb-975e-060f6f586463.png)
 
 ![ins16](https://user-images.githubusercontent.com/81990744/115395680-2449d080-a1b2-11eb-9860-3f930f1e9790.png)
 
-# **Sorting** <a name="-Sorting"></a>
+### **Clicking the location icon on the Inspector Details page the users would will be directed to the inspectors location on the map**
 
-### **Sorting the list using Inspector's Last Name: Clicking the Inspector Column, will allow the user to sort the Inspectors list from A-Z to Z-A**
+![ins27](https://user-images.githubusercontent.com/81990744/115396034-8d314880-a1b2-11eb-8db9-0987a92b40b1.png)
 
-![ins10](https://user-images.githubusercontent.com/81990744/115397444-185f0e00-a1b4-11eb-8291-0bfc2aa5b630.png)
-
-![ins11](https://user-images.githubusercontent.com/81990744/115397458-1b59fe80-a1b4-11eb-95e4-5c213abdc566.png)
-
-![ins12](https://user-images.githubusercontent.com/81990744/115397481-22810c80-a1b4-11eb-8c45-2eab4d712b80.png)
-
-### **Sorting the list using Inspector's Status, Clicking the Status Column, will allow the user to sort the Inspectors using status Tracking On and Off**
-
-![ins13](https://user-images.githubusercontent.com/81990744/115397790-78ee4b00-a1b4-11eb-976a-f65f406417a1.png)
-
-![ins14](https://user-images.githubusercontent.com/81990744/115397796-7be93b80-a1b4-11eb-970c-f52e42fc0161.png)
-
-![ins15](https://user-images.githubusercontent.com/81990744/115397859-899ec100-a1b4-11eb-8dc8-f56258308b4c.png)
-
+ 
 # **Filter** <a name="-Filter"></a>
 
-### **Clicking the Filters button will display the Inspector filters menu**
+### **Clicking the Filters button will display the Inspector filters menu, which allows the user to filter by Inspector Name, Type, and Status. Selecting specific filters will only display Inspectors that match the selected criteria. **
 
 ![ins28](https://user-images.githubusercontent.com/81990744/115398384-16497f00-a1b5-11eb-83e2-37a684852924.png)
 
 ![ins29](https://user-images.githubusercontent.com/81990744/115398565-48f37780-a1b5-11eb-911f-ca616727033a.png)
 
-### **Filtering the list using Inspector Name: Clicking on the name box and typing inspector's name and selecting the inspectors name will allow the user to filter the inspector from the list** 
+### **For example, filtering the list using Inspector Name is seen below** 
 
 ![ins25](https://user-images.githubusercontent.com/81990744/115406974-a8ee1c00-a1bd-11eb-9ed1-2661c34f85ae.png)
 
 ![ins30](https://user-images.githubusercontent.com/81990744/115407371-f66a8900-a1bd-11eb-86c8-bc87e72695d4.png)
 
-### **Filtering the list using Inspector Type: Selecting All, Internal and External will allow the user to filter the list using Inspector Type**
+### **...or by Inspector Type...**
 
 ![ins21](https://user-images.githubusercontent.com/81990744/115407507-139f5780-a1be-11eb-8cdb-700920b968bf.png)
 
 ![ins22](https://user-images.githubusercontent.com/81990744/115407517-15691b00-a1be-11eb-9b2b-9f7e3d3e10ac.png)
 
-### **Filtering the list using Inspector Status: Selecting Tracking On, In Tranist, Inspecting and Tracking Off will allow the user to filter the list using Inspector Status**
+### **...or by Inspector Status.**
 
 ![ins23](https://user-images.githubusercontent.com/81990744/115407606-2ade4500-a1be-11eb-84c2-739d4ad98099.png)
 
