@@ -4,6 +4,7 @@ title: Detailed Assignment Page
 tags: user guide portal
 categories: first release
 ---
+<link rel="stylesheet" href="/User-Guide/styles.css">
 
 - [Field Descriptions](#-Field-Descriptions)
 - [Actions](#-Actions)
@@ -15,7 +16,7 @@ categories: first release
 
 Clicking on the arrow icon will allow the user to navigate to the Assignment Details page
 
-![dassa6](https://user-images.githubusercontent.com/81990744/115449440-d0a6a980-a1e8-11eb-848b-632c95f301ee.png)
+![dassa6 class=screenshot](https://user-images.githubusercontent.com/81990744/115449440-d0a6a980-a1e8-11eb-848b-632c95f301ee.png)
 
 Assignment Details page will display the following information: Inspection Number, Inspection Status, Inspection Type, Inspection Date/Time, Inspection Address, Inspector Name, Department, Inspction cluster, Created On, Created By, Inspection Contact Name, Email and Cancel Assignment and Request Reschedule Assignment buttons
 
