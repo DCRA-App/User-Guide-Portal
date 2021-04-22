@@ -20,7 +20,7 @@ Clicking on the arrow icon will allow the user to navigate to the Assignment Det
 
 Assignment Details page will display the following information: Inspection Number, Inspection Status, Inspection Type, Inspection Date/Time, Inspection Address, Inspector Name, Department, Inspction cluster, Created On, Created By, Inspection Contact Name, Email and Cancel Assignment and Request Reschedule Assignment buttons
 
-![dassa1](https://user-images.githubusercontent.com/81990744/115450384-d355ce80-a1e9-11eb-9248-0118f9be8c16.png)
+![dassa1 -screenshot](https://user-images.githubusercontent.com/81990744/115450384-d355ce80-a1e9-11eb-9248-0118f9be8c16.png)
 
 ### Actions <a name="-Actions"></a>
 ### On Map <a name="-On-Map"></a>
