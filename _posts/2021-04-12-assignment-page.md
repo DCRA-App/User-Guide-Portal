@@ -45,9 +45,7 @@ Address Column: Inspection's location/address
 
 
 ### Actions from Columns <a name="-Actions-from-Columns"></a>
-
 ### Map <a name="-Map"></a>
-
 By clicking the location icon on the list, the users will be directed to the assignment location on the map
 
 ![ins18](https://user-images.githubusercontent.com/81990744/115446446-3c871300-a1e5-11eb-982b-ca3d52d9f45d.png)
@@ -55,7 +53,6 @@ By clicking the location icon on the list, the users will be directed to the ass
 ![ins19](https://user-images.githubusercontent.com/81990744/115446457-3f820380-a1e5-11eb-8d64-2d77b3be0490.png)
 
 ### Detailed Assignment Page <a name="-Detailed-Assignment-Page"></a>
-
 Clicking on the arrow icon on the list, the users will be directed to Assignment Details page
 
 ![assa10](https://user-images.githubusercontent.com/81990744/115290644-c8376b80-a121-11eb-8494-5bc8b60d90cd.png)
@@ -63,7 +60,6 @@ Clicking on the arrow icon on the list, the users will be directed to Assignment
 ![shot_210420_143538](https://user-images.githubusercontent.com/81990744/115446799-b919f180-a1e5-11eb-8e9d-b428d5dad9f2.png)
 
 ### Sorting <a name="-Sorting"></a>
-
 Users could navigate to different assignment pages by selecting the page numbers
 
 ![assa9](https://user-images.githubusercontent.com/81990744/115290733-e604d080-a121-11eb-97cc-18724b0e29d9.png)
@@ -85,7 +81,6 @@ The table of Inspections is sortable by each column by clicking on each sepecifi
 ![assa20](https://user-images.githubusercontent.com/81990744/115291452-c9b56380-a122-11eb-9cc0-fe14f53a0ba5.png)
 
 ### Filter <a name="-Filter"></a>
-
 Click on the Filters button will display the Assignment filters menu, which allows the user to filter by Assignment Type and Status
 
 ![assa8](https://user-images.githubusercontent.com/81990744/115290582-b786f580-a121-11eb-970d-a4a53514cd24.png)
