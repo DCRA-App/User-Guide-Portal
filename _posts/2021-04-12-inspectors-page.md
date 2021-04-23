@@ -23,7 +23,7 @@ To navigate to the Inspector full list, click on Inspectors from the side naviga
 
 The user will be directed to the Inspectors page as seen below. The table is a full list of Inspectors registered with DCRA and permissioned appropriately.
 
-![ins26](https://user-images.githubusercontent.com/81990744/115393860-26ab2b00-a1b0-11eb-9a0c-a6ae3b51d223.png)
+![ins26 -screenshot](https://user-images.githubusercontent.com/81990744/115393860-26ab2b00-a1b0-11eb-9a0c-a6ae3b51d223.png)
 
 ### Column Descriptions <a name="-Column-Descriptions"></a>
 
