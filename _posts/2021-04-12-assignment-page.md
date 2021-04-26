@@ -46,14 +46,14 @@ Address Column: Inspection's location/address
 
 
 ### Actions from Columns <a name="-Actions-from-Columns"></a>
-### Map <a name="-Map"></a>
+#### Map <a name="-Map"></a>
 By clicking the location icon on the list, the users will be directed to the assignment location on the map
 
 ![ins18 -screenshot](https://user-images.githubusercontent.com/81990744/115446446-3c871300-a1e5-11eb-982b-ca3d52d9f45d.png)
 
 ![ins19 -screenshot](https://user-images.githubusercontent.com/81990744/115446457-3f820380-a1e5-11eb-8d64-2d77b3be0490.png)
 
-### Detailed Assignment Page <a name="-Detailed-Assignment-Page"></a>
+#### Detailed Assignment Page <a name="-Detailed-Assignment-Page"></a>
 Clicking on the arrow icon on the list, the users will be directed to Assignment Details page
 
 ![assa10 -screenshot](https://user-images.githubusercontent.com/81990744/115290644-c8376b80-a121-11eb-8494-5bc8b60d90cd.png)
