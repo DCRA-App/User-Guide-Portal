@@ -96,11 +96,19 @@ For example, filtering the list using Inspector Name is seen below
 
 ...or by Inspector Type...
 
+* Internal Inspectors - FTE DCRA employees
+* External Inspectors - Resident Inspectors
+
 ![ins21 -screenshot](https://user-images.githubusercontent.com/81990744/115407507-139f5780-a1be-11eb-8cdb-700920b968bf.png)
 
 ![ins22 -screenshot](https://user-images.githubusercontent.com/81990744/115407517-15691b00-a1be-11eb-9b2b-9f7e3d3e10ac.png)
 
 ...or by Inspector Status.
+
+* Tracking On - On Duty for DCRA and the Inspector location is being reported to DCRA
+* In Transit - On the way to an Assignment/Inspection location
+* Inspecting - In the middle of conducting an Inspection
+* Tracking Off - Off Duty for DCRA and the Inspector location is NOT being reported to DCRA
 
 ![ins23 -screenshot](https://user-images.githubusercontent.com/81990744/115407606-2ade4500-a1be-11eb-84c2-739d4ad98099.png)
 
