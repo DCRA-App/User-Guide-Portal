@@ -96,5 +96,13 @@ For example, filtering the list using Assignment Type is seen below
 
 ... or by Assignment Status
 
+* Assigned - the Inspection has an assigned time/date and Inspector
+* Inspector in Transit - Inspector is in transit to the Assignment/Inspection location
+* Inspection in Progress - Inspector is in the middle of conducting an inspection
+* Canceled - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
+* Reschedule Requested - Inspector or Portal user requested a reschedule of the Assignment
+* Rescheduled - The system processed the request and this Assignment has been rescheduled and a new Assignment with status Assigned has been created
+* Completed - Inspector resulted the Inspection in CityGov app
+
 ![assa13 -screenshot](https://user-images.githubusercontent.com/81990744/115290994-354b0100-a122-11eb-9d79-f1f642cbc017.png)
 
