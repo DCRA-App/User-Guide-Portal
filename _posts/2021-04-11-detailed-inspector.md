@@ -24,7 +24,7 @@ Clicking ON Map will allow users to locate the inspector on the map
 
 ![dins3-screenshot](https://user-images.githubusercontent.com/81990744/115453913-2762b200-a1ee-11eb-8c83-e9dcee97490c.png)
 
-### Working Hours <a name="-Working-Hours"></a>
+#### Working Hours <a name="-Working-Hours"></a>
 
 Currently Working Hours are managed by the system administrators
 
