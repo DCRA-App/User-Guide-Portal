@@ -7,9 +7,6 @@ categories: first release
 
 - [Navigate to Inspectors List](#-Navigate)
 - [Column Descriptions](#-Column-Descriptions)
-- [Actions from Columns](#-Actions-from-Columns)
-    * [Map](#-Map)
-    * [Detailed Inspector Page](#-Detailed-Inspector-Page)
 - [Sorting](#-Sorting)
 - [Filter](#-Filter)
 
