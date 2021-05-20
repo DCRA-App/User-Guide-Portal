@@ -6,7 +6,7 @@ categories: first release
 ---
 
 - [Field Descriptions](#-Field-Descriptions)
-  * [Working Hours](#-Working-Hours)
+  * [Inspection Availability Hours](#-Inspection-Availability-Hours)
     
 <link rel="stylesheet" href="/User-Guide-Portal/styles.css">
 
@@ -14,20 +14,21 @@ categories: first release
 
 Clicking the arrow icon will allow the user to navigate to the Inspector Details page
 
-![dins1 -screenshot](https://user-images.githubusercontent.com/81990744/115453080-37c65d00-a1ed-11eb-9d46-98ab81e91d9b.png)
+![I8 -screenshot](https://user-images.githubusercontent.com/81990744/119042035-556e1a00-b985-11eb-9ff9-f36d6a62f2d0.png)
 
-The Inspector Details page will display the following information: Inspector Name, Inspector Status, Schedule, On Map, Phone, Email, Inspector Type, Department, Status and Working Hours
+The Inspector Details page will display the following information: Inspector Name, Inspector Status, Schedule, On Map, Phone, Email, Inspector Type, Department, Status and Inspection Availability Hours
 
-![dins4 -screenshot](https://user-images.githubusercontent.com/81990744/115453517-be7b3a00-a1ed-11eb-8bde-e4ec564d3e5d.png)
+![I22 -screenshot](https://user-images.githubusercontent.com/81990744/119042094-64ed6300-b985-11eb-8097-01b3da9da46b.png)
 
 Clicking ON Map will allow users to locate the inspector on the map
 
-![dins3-screenshot](https://user-images.githubusercontent.com/81990744/115453913-2762b200-a1ee-11eb-8c83-e9dcee97490c.png)
+![I19 -screenshot](https://user-images.githubusercontent.com/81990744/119042448-d75e4300-b985-11eb-9254-acee18e7034c.png)
 
-#### Working Hours <a name="-Working-Hours"></a>
+#### Inspection Availability Hours <a name="-Inspection-Availability-Hours"></a>
 
-Currently Working Hours are managed by the system administrators
+Currently Inspection Availability Hours are managed by the system administrators
 
-![dins6 -screenshot](https://user-images.githubusercontent.com/81990744/115453662-dfdc2600-a1ed-11eb-838c-e1c81cc7111e.png)
+![I20 -screenshot](https://user-images.githubusercontent.com/81990744/119042487-e9d87c80-b985-11eb-91de-82cc68b08928.png)
+
 
 
