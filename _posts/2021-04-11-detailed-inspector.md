@@ -14,7 +14,7 @@ categories: first release
 
 Clicking the arrow icon will allow the user to navigate to the Inspector Details page
 
-![I8 -screenshot](https://user-images.githubusercontent.com/81990744/119042035-556e1a00-b985-11eb-9ff9-f36d6a62f2d0.png)
+![I18 -screenshot](https://user-images.githubusercontent.com/81990744/119042869-6b300f00-b986-11eb-9b9a-7df1faea50e4.png)
 
 The Inspector Details page will display the following information: Inspector Name, Inspector Status, Schedule, On Map, Phone, Email, Inspector Type, Department, Status and Inspection Availability Hours
 
