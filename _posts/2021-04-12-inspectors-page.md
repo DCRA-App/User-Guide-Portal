@@ -32,7 +32,7 @@ The user will be directed to the Inspectors page as seen below. The table is a f
 
 3. Contact Information Column: Inspector's email address
 
-4. Department column: Inspector's department/program (they program they conduct inspections in)
+4. Department Column: Inspector's department/program (they program, they conduct inspections in)
 
 ### Sorting <a name="-Sorting"></a>
 
@@ -46,7 +46,7 @@ The table of Inspectors is sortable by each column by clicking on each specific 
 
 ![I7 -screenshot](https://user-images.githubusercontent.com/81990744/118984847-e9bb8b00-b94b-11eb-957d-b678bd24de11.png)
 
-... or by Inspector's status and so forth for each column
+... or by Inspector's status and so forth for each column.
 
 ![I9 -screenshot](https://user-images.githubusercontent.com/81990744/118984900-f809a700-b94b-11eb-99cc-fb7cd9d92a0c.png)
 
@@ -54,37 +54,37 @@ The table of Inspectors is sortable by each column by clicking on each specific 
 
 ### Actions from Columns <a name="-Action-from-Columns"></a>
 
-By clicking the location icon on the list, the users will be directed to the inspector's location on the map
+By clicking the location icon on the list, the users will be directed to the inspector's location on the map.
 
 ![I12 -screenshot](https://user-images.githubusercontent.com/81990744/118985376-6484a600-b94c-11eb-9996-a48ac538967b.png)
 
 ![I11 -screenshot](https://user-images.githubusercontent.com/81990744/118985391-68182d00-b94c-11eb-9a28-8f6fab324d81.png)
 
-Clicking the arrows on the list, the users will be directed to the Inspector Details page
+Clicking the arrows on the list, the users will be directed to the Inspector Details page.
 
 ![I13 -screenshot](https://user-images.githubusercontent.com/81990744/118985539-85e59200-b94c-11eb-962e-6b8834dbb4e8.png)
 
 ![I14 -screenshot](https://user-images.githubusercontent.com/81990744/118985550-89791900-b94c-11eb-9fb2-d171651bd1a6.png)
 
-Clicking the On Map button/location icon on the Inspector Details page the users would will be directed to the inspectors location on the map
+Clicking the On Map button/location icon on the Inspector Details page the users would will be directed to the inspectors location on the map.
 
 ![I15 -screenshot](https://user-images.githubusercontent.com/81990744/118986120-0f955f80-b94d-11eb-9b7f-334dc0e1f6bb.png)
  
 ### Filter <a name="-Filter"></a>
 
-Clicking the Filters button will display the Inspector filters menu, which allows the user to filter by Inspector Name, Type, and Status. Selecting specific filters will only display Inspectors that match the selected criteria. Clicking REsET TO DEFAULTS button will clear all selected filters.
+Clicking the Filters button will display the Inspector filters menu, which allows the user to filter by Inspector Name, Type, Department and Status. Selecting specific filters will only display Inspectors that match the selected criteria. Clicking RESET TO DEFAULTS button will clear all selected filters.
 
 ![I16 -screenshot](https://user-images.githubusercontent.com/81990744/118986388-52573780-b94d-11eb-9957-c488824d0df5.png)
 
 ![I17 -screenshot](https://user-images.githubusercontent.com/81990744/118986406-55522800-b94d-11eb-9e81-95b210f19e54.png)
 
-1. Filtering the list using Inspector's Name: click on Inspector name and begin typing in the Inspector's name (firs/last), and select one of the auto-complete matches from the    list
+1. Filtering the list using Inspector's Name: click on Inspector name and begin typing in the Inspector's name (first/last), and select one of the auto-complete matches from the    list.
 
-2. Filtering the list using Inspector Type: Selecting All, Internal and External displays the selected Type of Inspectors on the list
+2. Filtering the list using Inspector Type: Selecting All, Internal and External displays the selected Type of Inspectors on the list.
    * Internal Inspectors - FTE DCRA employees
    * External Inspectors - Resident Inspectors
 
-3. Fitering the list using Inspector's Department: click on Select department and selecting Illegal Construction and/or OIS departement/s from the list displays Inspectors who      work for the selected department on the list
+3. Fitering the list using Inspector's Department: click on Select department and selecting Illegal Construction and/or OIS departement/s from the list displays Inspectors who      work for the selected department on the list.
 
 4. Filtering the list using Inspector's Status: 
    * On Duty - On Duty for DCRA and the Inspector location is being reported to DCRA
