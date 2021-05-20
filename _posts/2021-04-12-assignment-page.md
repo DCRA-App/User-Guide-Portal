@@ -74,7 +74,7 @@ The table of Inspections is sortable by each column by clicking on each sepecifi
 ![A14 -screenshot](https://user-images.githubusercontent.com/81990744/119038345-045c2700-b981-11eb-9d56-6859ac4acc16.png)
 
 ### Filter <a name="-Filter"></a>
-Click on the Filters button will display the Assignment filters menu, which allows the user to filter by Assignment Type and Status
+Clicking on the Filters button will display the Assignment filters menu, which allows the user to filter by Inspection Number, Type, Department, Status, Date, Assigned Inspector, Address
 
 ![A15](https://user-images.githubusercontent.com/81990744/119038606-4d13e000-b981-11eb-960b-9bb1e1f52acb.png)
 
@@ -87,7 +87,7 @@ Click on the Filters button will display the Assignment filters menu, which allo
 
 3. Filtering Inspections by department, click on Select department and selecting Illegal Construction and/or OIS displays Inspections of the selected department on the list.
 
-4. Selecting one, all or more of Assignment status filters, displays the selected Assignments with those statuses on the map. The Assignment status is driven by the actions of      the Inspector in the Inspector app or CityGov app, or an authorized Inspections Portal or Accela user. 
+4. Selecting one, all or more of Assignment status filters, displays the selected Assignments with those statuses on the list. The Assignment status is driven by the actions of    the Inspector in the Inspector app or CityGov app, or an authorized Inspections Portal or Accela user. 
 
    * Assigned - the Inspection has an assigned time/date and Inspector
    * Inspector in Transit - Inspector is in transit to the Assignment/Inspection location
@@ -96,8 +96,9 @@ Click on the Filters button will display the Assignment filters menu, which allo
    * Rescheduled - The system processed the request and this Assignment has been rescheduled and a new Assignment with status Assigned has been created
    * Reschedule Requested - Inspector or Portal user requested a reschedule of the Assignment
    * Canceled - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
+   
 
-5. Filtering Inspection by Assignment Date, click on the Select assignments date range and selecting From and To date range from the calendar displays Inspections within the        selected date range on the list
+5. Filtering Inspection by Assignment Date, click on the Select assignments date range and selecting the range from the calendar displays Inspections within the selected date      range on the list
 
 6. Filtering Inspections by the Assigned Inspector, click on Enter Inspector's First or Last Name and begin typing in the Inspector's name (first or last), and select one of the    auto-complete matches from the list.
 
