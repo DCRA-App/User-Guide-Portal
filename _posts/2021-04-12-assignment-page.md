@@ -5,6 +5,7 @@ tags: user guide portal
 categories: first release
 ---
 
+- [Navigate to Assignment List](#-Navigate-to-Assignment-List)
 - [Column Descriptions](#-Column-Descriptions)
 - [Actions from Columns](#-Actions-from-Columns)
     * [Map](#-Map)
@@ -14,95 +15,93 @@ categories: first release
 
 <link rel="stylesheet" href="/User-Guide-Portal/styles.css">
 
-### Column Descriptions <a name="-Column-Descriptions"></a>
+### Navigate to Assignment List <a name="-Navigate-to-Assignment-List"></a>
 
 Select Assignments from the main menu bar to navigate to the Assignments page
 
-![assa1 -screenshot](https://user-images.githubusercontent.com/81990744/115289438-8ce86d00-a120-11eb-911a-634900a9f6c6.png)
+![A1 -screenshot](https://user-images.githubusercontent.com/81990744/119017800-5e50f280-b969-11eb-9916-9ecbb2d7bdc5.png)
 
 The user will be directed to the Assignment page as seen below. The table is a full list of Assignments submitted in the KRM form and Accepted by Accela
 
-![assa2 -screenshot](https://user-images.githubusercontent.com/81990744/115289512-a5f11e00-a120-11eb-992f-de3c0d5725a7.png)
+![A2 -screenshot](https://user-images.githubusercontent.com/81990744/119017845-6f016880-b969-11eb-9ddc-32fe4dbb06ad.png)
 
-Inspection Column: Inspection's number listed
+### Column Descriptions <a name="-Column-Descriptions"></a>
 
-![assa3 -screenshot](https://user-images.githubusercontent.com/81990744/115289616-c8833700-a120-11eb-8976-326fe063f845.png)
+![A3 -screenshot](https://user-images.githubusercontent.com/81990744/119018529-29916b00-b96a-11eb-8e07-e61e92b73b25.png)
 
-Status Column: Inspection's status
+1. Inspection Column: Inspection's number listed
 
-![assa4 -screenshot](https://user-images.githubusercontent.com/81990744/115289705-dfc22480-a120-11eb-95d9-e1f1158195d0.png)
+2. Status Column: Inspection's status
 
-Date/Time Column: Insepction's creation Date/Time
+3. Date/Time Column: Insepction's creation Date/Time
 
-![assa5 -screenshot](https://user-images.githubusercontent.com/81990744/115289786-f8cad580-a120-11eb-99dc-8c6944652bb6.png)
+4. Address Column: Inspection's location/address
 
-Assigned Inspector Column: Assigned Inspector's first name and last name
+5. Assigned Inspector Column: Assigned Inspector's first name and last name
 
-![assa6 -screenshot](https://user-images.githubusercontent.com/81990744/115289961-113af000-a121-11eb-913a-561d4664e295.png)
-
-Address Column: Inspection's location/address
-
-![assa7 -screenshot](https://user-images.githubusercontent.com/81990744/115290049-2ca5fb00-a121-11eb-9bd8-029c3fc402e0.png)
-
+6. Department Column: Inspection's Department
 
 ### Actions from Columns <a name="-Actions-from-Columns"></a>
 #### Map <a name="-Map"></a>
 By clicking the location icon on the list, the users will be directed to the assignment location on the map
 
-![ins18 -screenshot](https://user-images.githubusercontent.com/81990744/115446446-3c871300-a1e5-11eb-982b-ca3d52d9f45d.png)
+![A6 -screenshot](https://user-images.githubusercontent.com/81990744/119037584-2a34fc00-b980-11eb-8bd8-68183add4faf.png)
 
-![ins19 -screenshot](https://user-images.githubusercontent.com/81990744/115446457-3f820380-a1e5-11eb-8d64-2d77b3be0490.png)
+![A7 -screenshot](https://user-images.githubusercontent.com/81990744/119037595-2dc88300-b980-11eb-8ac4-32081320e1b2.png)
 
 #### Detailed Assignment Page <a name="-Detailed-Assignment-Page"></a>
 Clicking on the arrow icon on the list, the users will be directed to Assignment Details page
 
-![assa10 -screenshot](https://user-images.githubusercontent.com/81990744/115290644-c8376b80-a121-11eb-8494-5bc8b60d90cd.png)
+![A8](https://user-images.githubusercontent.com/81990744/119037910-8a2ba280-b980-11eb-8a07-10bf47a2d9bb.png)
 
-![shot_210420_143538 -screenshot](https://user-images.githubusercontent.com/81990744/115446799-b919f180-a1e5-11eb-8e9d-b428d5dad9f2.png)
+![A9](https://user-images.githubusercontent.com/81990744/119037927-8e57c000-b980-11eb-910b-e9eb10377e39.png)
 
 ### Sorting <a name="-Sorting"></a>
 Users could navigate to different assignment pages by selecting the page numbers
 
-![assa9 -screenshot](https://user-images.githubusercontent.com/81990744/115290733-e604d080-a121-11eb-97cc-18724b0e29d9.png)
+![A10 -screenshot](https://user-images.githubusercontent.com/81990744/119038023-a92a3480-b980-11eb-802f-bfd8a446b9d3.png)
 
 The table of Inspections is sortable by each column by clicking on each sepecific column to either sort it oldest to the newest or newest to the oldest. For example, to sort the table by Inspection's number, Click the Inspection column, as seen below.
 
-![assa16 -screenshot](https://user-images.githubusercontent.com/81990744/115291244-81964100-a122-11eb-88fd-05f4c8ef08b5.png)
+![A11 -screenshot](https://user-images.githubusercontent.com/81990744/119038250-e2fb3b00-b980-11eb-9965-3a7dafd4c65d.png)
 
-![assa21 -screenshot](https://user-images.githubusercontent.com/81990744/115291536-df2a8d80-a122-11eb-86a9-3c2b676444d2.png)
-
-![assa22 -screenshot](https://user-images.githubusercontent.com/81990744/115291549-e356ab00-a122-11eb-8d19-dc4099098b95.png)
+![A12 -screenshot](https://user-images.githubusercontent.com/81990744/119038261-e5f62b80-b980-11eb-95fe-a703bb4dd457.png)
 
 ... or by Date/Time and so forth for each column
 
-![assa19 -screenshot](https://user-images.githubusercontent.com/81990744/115291411-ba361a80-a122-11eb-8237-bfcf1a38f4ac.png)
+![A13 -screenshot](https://user-images.githubusercontent.com/81990744/119038331-00c8a000-b981-11eb-89ec-88563000d7d9.png)
 
-![assa18 -screenshot](https://user-images.githubusercontent.com/81990744/115291438-c3bf8280-a122-11eb-9310-03fde318bbd1.png)
-
-![assa20 -screenshot](https://user-images.githubusercontent.com/81990744/115291452-c9b56380-a122-11eb-9cc0-fe14f53a0ba5.png)
+![A14 -screenshot](https://user-images.githubusercontent.com/81990744/119038345-045c2700-b981-11eb-9d56-6859ac4acc16.png)
 
 ### Filter <a name="-Filter"></a>
 Click on the Filters button will display the Assignment filters menu, which allows the user to filter by Assignment Type and Status
 
-![assa8 -screenshot](https://user-images.githubusercontent.com/81990744/115290582-b786f580-a121-11eb-970d-a4a53514cd24.png)
+![A15](https://user-images.githubusercontent.com/81990744/119038606-4d13e000-b981-11eb-960b-9bb1e1f52acb.png)
 
-![assa11 -screenshot](https://user-images.githubusercontent.com/81990744/115290962-29f7d580-a122-11eb-8b7b-1b4db4eb7cb5.png)
+![A16](https://user-images.githubusercontent.com/81990744/119038624-50a76700-b981-11eb-9516-d12e5a89d5a2.png)
+![A17](https://user-images.githubusercontent.com/81990744/119038644-54d38480-b981-11eb-9605-7d83f21736ee.png)
 
-For example, filtering the list using Assignment Type is seen below 
+1. Filtering using specific Inspection Number, click on Enter number and type in the Inpsection Number, then by pressing enter displays the selected Inspection on the list.
 
-![assa11 -screenshot](https://user-images.githubusercontent.com/81990744/115290962-29f7d580-a122-11eb-8b7b-1b4db4eb7cb5.png)
+2. Selecting All, Initial and Follow Up displays the selected Type of Inspection/Assignment on the map.
 
-![assa12 -screenshot](https://user-images.githubusercontent.com/81990744/115290980-2f552000-a122-11eb-9aee-ecf9832d7dcd.png)
+3. Filtering Inspections by department, click on Select department and selecting Illegal Construction and/or OIS displays Inspections of the selected department on the list.
 
-... or by Assignment Status
+4. Selecting one, all or more of Assignment status filters, displays the selected Assignments with those statuses on the map. The Assignment status is driven by the actions of      the Inspector in the Inspector app or CityGov app, or an authorized Inspections Portal or Accela user. 
 
-* Assigned - the Inspection has an assigned time/date and Inspector
-* Inspector in Transit - Inspector is in transit to the Assignment/Inspection location
-* Inspection in Progress - Inspector is in the middle of conducting an inspection
-* Canceled - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
-* Reschedule Requested - Inspector or Portal user requested a reschedule of the Assignment
-* Rescheduled - The system processed the request and this Assignment has been rescheduled and a new Assignment with status Assigned has been created
-* Completed - Inspector resulted the Inspection in CityGov app
+   * Assigned - the Inspection has an assigned time/date and Inspector
+   * Inspector in Transit - Inspector is in transit to the Assignment/Inspection location
+   * Inspection in Progress - Inspector is in the middle of conducting an inspection
+   * Completed - Inspector resulted the Inspection in CityGov app
+   * Rescheduled - The system processed the request and this Assignment has been rescheduled and a new Assignment with status Assigned has been created
+   * Reschedule Requested - Inspector or Portal user requested a reschedule of the Assignment
+   * Canceled - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
 
-![assa13 -screenshot](https://user-images.githubusercontent.com/81990744/115290994-354b0100-a122-11eb-9d79-f1f642cbc017.png)
+5. Filtering Inspection by Assignment Date, click on the Select assignments date range and selecting From and To date range from the calendar displays Inspections within the        selected date range on the list
+
+6. Filtering Inspections by the Assigned Inspector, click on Enter Inspector's First or Last Name and begin typing in the Inspector's name (first or last), and select one of the    auto-complete matches from the list.
+
+7. Filtering Inspections by address, click on Enter Assignment Address and type the inspection address, then by pressing enter displays assignment/s with the selected address on    the list.
+
+
 
