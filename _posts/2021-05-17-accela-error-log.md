@@ -25,7 +25,7 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
 ![AC5](https://user-images.githubusercontent.com/81990744/119146990-2bfece00-ba19-11eb-96e1-d12320476865.png)
 
-1. Record Column: Record/CAP number listed
+1. Record Number Column: Record/CAP number listed
 2. Department Column: Record's Department
 3. Error TimeStamp Column: Date/Time the record rejected 
 4. Error Status: Record's status
