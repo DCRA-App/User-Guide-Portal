@@ -14,7 +14,7 @@ categories: first release
 
 ### Navigate to Accela Error Log <a name="-Navigate-to-Accela-Error-Log"></a>
 
-### Column Descriptions <a name="-Column-Descriptions"></a>
+### Column Description <a name="-Column-Description"></a>
 
 ### Detailed Accela Error Log Page <a name="-Detailed-Accela-Error-Log-Page"></a>
 
