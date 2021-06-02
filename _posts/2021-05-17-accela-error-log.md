@@ -19,14 +19,15 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
  The user will be directed to the Accela Error Log page as seen below. The table is full of inspection submitted in Accela which doesn't meet parameters for auto-scheduling.
  
- ![AC2 -screenshot](https://user-images.githubusercontent.com/81990744/119146630-d0ccdb80-ba18-11eb-8dde-1607719ed23c.png)
+![acc2 -screenshot](https://user-images.githubusercontent.com/81990744/120531560-c1e91000-c3ac-11eb-9dcd-35ce69bbf209.png)
 
 ### Column Description <a name="-Column-Description"></a>
 
-![AC5](https://user-images.githubusercontent.com/81990744/119146990-2bfece00-ba19-11eb-96e1-d12320476865.png)
+![acc10 -screenshot](https://user-images.githubusercontent.com/81990744/120532080-505d9180-c3ad-11eb-97ae-58d5d9903ff7.png)
+
 
 1. Record Number Column: Record/CAP number listed
-2. Department Column: Record's Department
+2. Complaint Type Column: Record's Department
 3. Error TimeStamp Column: Date/Time the record rejected 
 4. Error Status: Record's status
 5. Error Message Column: Reason why the record was rejected 
@@ -35,27 +36,28 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
 Clicking on the arrow icon on the list, the user will be directed to the Accela Error Log Details page as seen on the second screenshot.
 
-![AC3 -screenshot](https://user-images.githubusercontent.com/81990744/119146696-e215e800-ba18-11eb-9ae9-bd940dfdea47.png)
+![acc3 -screenshot](https://user-images.githubusercontent.com/81990744/120532261-80a53000-c3ad-11eb-96fb-dc6463b084e4.png)
 
-![AC6 -screenshot](https://user-images.githubusercontent.com/81990744/119148179-42f1f000-ba1a-11eb-98c1-204bd4b1091b.png)
+![acc4 -screenshot](https://user-images.githubusercontent.com/81990744/120532265-826ef380-c3ad-11eb-9ac9-4c4957b08a52.png)
 
 ### Sorting <a name="-Sorting"></a>
 
 Users could navigate to different Accela Error Log pages by selecting the page numbers.
 
-![AC4 -screenshot](https://user-images.githubusercontent.com/81990744/119146906-17bad100-ba19-11eb-89cf-6cbdc0ddfb8b.png)
+![acc5 -screenshot](https://user-images.githubusercontent.com/81990744/120532342-99154a80-c3ad-11eb-98a9-b68154bc6035.png)
 
 The table of Accela Error Log is sortable by each column by clicking on each specific column to either sort it oldest to the newest or newest to the oldest. For example, to sort the table by Record's number, click the Record Column, as seen below.
 
-![AC7 -screenshot](https://user-images.githubusercontent.com/81990744/119148275-54d39300-ba1a-11eb-9d84-2d3693927f61.png)
+![acc6 -screenshot](https://user-images.githubusercontent.com/81990744/120532485-b64a1900-c3ad-11eb-9d25-16585f5559cb.png)
 
-![AC8 -screenshot](https://user-images.githubusercontent.com/81990744/119148296-58671a00-ba1a-11eb-80e9-9f0c282c2d61.png)
+![acc7 -screenshot](https://user-images.githubusercontent.com/81990744/120532498-b9450980-c3ad-11eb-9cdf-d9e66c6faee3.png)
 
 ... or by Date/Time and so forth for each column.
 
-![AC9 -screenshot](https://user-images.githubusercontent.com/81990744/119148473-851b3180-ba1a-11eb-9066-87c4deab7d73.png)
+![acc8 -screenshot](https://user-images.githubusercontent.com/81990744/120532592-cf52ca00-c3ad-11eb-9b87-e074419341e1.png)
 
-![AC10 -screenshot](https://user-images.githubusercontent.com/81990744/119148484-86e4f500-ba1a-11eb-8a32-fb4b876a35d9.png)
+![acc9 -screenshot](https://user-images.githubusercontent.com/81990744/120532603-d2e65100-c3ad-11eb-8d90-98eccc4ca4b7.png)
+
 
 
 
