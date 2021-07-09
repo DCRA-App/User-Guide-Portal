@@ -37,3 +37,17 @@ Clicking on Request to Reschedule button and confirming the action on the popup 
 Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
+
+#### Emergency Assignments <a name="-Emergency Assignments"></a>
+Emergency Assignments are disignated by a red ! icon.
+
+**Assignments Table**
+
+![Screen Shot 2021-07-09 at 2 11 50 PM -screenshot](https://user-images.githubusercontent.com/84864458/125119896-b7164f00-e0bf-11eb-9886-d08655ba7a57.png)
+
+**Assignment Details**
+
+![Screen Shot 2021-07-09 at 2 13 03 PM -screenshot](https://user-images.githubusercontent.com/84864458/125119971-cdbca600-e0bf-11eb-9460-fb54ebcf9140.png)
+
+
+
