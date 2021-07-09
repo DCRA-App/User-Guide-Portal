@@ -76,15 +76,16 @@ Clicking the Filters button will display the Inspector filters menu, which allow
 
 ![I16 -screenshot](https://user-images.githubusercontent.com/81990744/118986388-52573780-b94d-11eb-9957-c488824d0df5.png)
 
-![I17 -screenshot](https://user-images.githubusercontent.com/81990744/118986406-55522800-b94d-11eb-9e81-95b210f19e54.png)
+![Group 55 -screenshot](https://user-images.githubusercontent.com/84864458/125125620-d3b68500-e0c7-11eb-879c-542655dcb8e6.png)
 
 1. Filtering the list using Inspector's Name: click on Inspector name and begin typing in the Inspector's name (first/last), and select one of the auto-complete matches from the    list.
 
 2. Filtering the list using Inspector Type: Selecting All, Internal and External displays the selected Type of Inspectors on the list.
    * Internal Inspectors - FTE DCRA employees
    * External Inspectors - Resident Inspectors
+   * Duty Officer - Assigned emergency inspections
 
-3. Fitering the list using Inspector's Department: click on Select department and selecting Illegal Construction and/or OIS departement/s from the list displays Inspectors who      work for the selected department on the list.
+3. Fitering the list using Inspector's Department: click on Select department and selecting Illegal Construction and/or OIS departement/s from the list displays Inspectors who work for the selected department on the list.
 
 4. Filtering the list using Inspector's Status: 
    * On Duty - On Duty for DCRA and the Inspector location is being reported to DCRA
