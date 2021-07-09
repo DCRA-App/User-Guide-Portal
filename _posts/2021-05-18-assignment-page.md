@@ -28,8 +28,11 @@ The user will be directed to the Assignment page as seen below. The table is a f
 ### Column Descriptions <a name="-Column-Descriptions"></a>
 
 ![A3 -screenshot](https://user-images.githubusercontent.com/81990744/119018529-29916b00-b96a-11eb-8e07-e61e92b73b25.png)
+![Group 54 -screenshot](https://user-images.githubusercontent.com/84864458/125125068-175cbf00-e0c7-11eb-9ef9-5c4c0f2ce6f6.png)
 
-1. Inspection Column: Inspection's number listed
+
+
+1. Inspection Column: Inspection's number listed this will be followed by an emergency indication if the assignment is an emergency as shown above
 
 2. Status Column: Inspection's status
 
@@ -76,18 +79,18 @@ The table of Inspections is sortable by each column by clicking on each sepecifi
 ### Filter <a name="-Filter"></a>
 Clicking on the Filters button will display the Assignment filters menu, which allows the user to filter by Inspection Number, Type, Department, Status, Date, Assigned Inspector, Address
 
-![A15](https://user-images.githubusercontent.com/81990744/119038606-4d13e000-b981-11eb-960b-9bb1e1f52acb.png)
+![A15 -screenshot](https://user-images.githubusercontent.com/81990744/119038606-4d13e000-b981-11eb-960b-9bb1e1f52acb.png)
+![Group 53 -screenshot](https://user-images.githubusercontent.com/84864458/125124939-e3819980-e0c6-11eb-8d9b-6e23120efb3e.png)
 
-![A16](https://user-images.githubusercontent.com/81990744/119038624-50a76700-b981-11eb-9516-d12e5a89d5a2.png)
-![A17](https://user-images.githubusercontent.com/81990744/119038644-54d38480-b981-11eb-9605-7d83f21736ee.png)
+1. The emergency filter will allow the user to display only emergency assignments.
 
-1. Filtering using specific Inspection Number, click on Enter number and type in the Inpsection Number, then by pressing enter displays the selected Inspection on the list.
+2. Filtering using specific Inspection Number, click on Enter number and type in the Inpsection Number, then by pressing enter displays the selected Inspection on the list.
 
-2. Selecting All, Initial and Follow Up displays the selected Type of Inspection/Assignment on the map.
+3. Selecting All, Initial and Follow Up displays the selected Type of Inspection/Assignment.
 
-3. Filtering Inspections by department, click on Select department and selecting Illegal Construction and/or OIS displays Inspections of the selected department on the list.
+4. Filtering Inspections by department, click on Select department and selecting Illegal Construction and/or OIS displays Inspections of the selected department on the list.
 
-4. Selecting one, all or more of Assignment status filters, displays the selected Assignments with those statuses on the list. The Assignment status is driven by the actions of    the Inspector in the Inspector app or CityGov app, or an authorized Inspections Portal or Accela user. 
+5. Selecting one, all or more of Assignment status filters, displays the selected Assignments with those statuses on the list. The Assignment status is driven by the actions of    the Inspector in the Inspector app or CityGov app, or an authorized Inspections Portal or Accela user. 
 
    * Assigned - the Inspection has an assigned time/date and Inspector
    * Inspector in Transit - Inspector is in transit to the Assignment/Inspection location
@@ -98,11 +101,11 @@ Clicking on the Filters button will display the Assignment filters menu, which a
    * Canceled - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
    
 
-5. Filtering Inspection by Assignment Date, click on the Select assignments date range and selecting the range from the calendar displays Inspections within the selected date      range on the list
+6. Filtering Inspection by Assignment Date, click on the Select assignments date range and selecting the range from the calendar displays Inspections within the selected date      range on the list
 
-6. Filtering Inspections by the Assigned Inspector, click on Enter Inspector's First or Last Name and begin typing in the Inspector's name (first or last), and select one of the    auto-complete matches from the list.
+7. Filtering Inspections by the Assigned Inspector, click on Enter Inspector's First or Last Name and begin typing in the Inspector's name (first or last), and select one of the    auto-complete matches from the list.
 
-7. Filtering Inspections by address, click on Enter Assignment Address and type the inspection address, then by pressing enter displays assignment/s with the selected address on    the list.
+8. Filtering Inspections by address, click on Enter Assignment Address and type the inspection address, then by pressing enter displays assignment/s with the selected address on    the list.
 
 
 
