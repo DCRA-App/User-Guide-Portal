@@ -33,6 +33,16 @@ Clicking on Request to Reschedule button and confirming the action on the popup 
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
 
+Emergency assignments can be reassigned to specific users
+
+![Group 57 -screenshot](https://user-images.githubusercontent.com/84864458/125327360-07d0b680-e311-11eb-833c-78a029381112.png)
+
+![Group 58 -screenshot](https://user-images.githubusercontent.com/84864458/125327397-11f2b500-e311-11eb-940c-e950ed433cf6.png)
+
+![Group 59 -screenshot](https://user-images.githubusercontent.com/84864458/125327417-17e89600-e311-11eb-904c-09b9ac703203.png)
+
+![Group 60 -screenshot](https://user-images.githubusercontent.com/84864458/125327449-1e770d80-e311-11eb-8386-1eb64c2ce1ed.png)
+
 #### Cancel Assignment <a name="-Cancel-Assignment"></a>
 Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
