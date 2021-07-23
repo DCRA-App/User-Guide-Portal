@@ -7,6 +7,7 @@ categories: first release
 
 - [Field Descriptions](#-Field-Descriptions)
   * [Inspection Availability Hours](#-Inspection-Availability-Hours)
+  * [Inspector Schedules](#-Inspector-Schedules)
     
 <link rel="stylesheet" href="/User-Guide-Portal/styles.css">
 
